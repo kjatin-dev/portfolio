@@ -7,307 +7,6 @@
     "text": "Building this portfolio website with Quarto was my first real experience using AI tools for a complete project, and it taught me a lot about both the benefits and limitations of these technologies.\n\n\nWhen I first started thinking about how to structure a portfolio website, I honestly wasn’t sure where to begin. I used ChatGPT to help brainstorm what pages I should include and what kind of content would make sense for each section. The AI suggested a five-page layout (Home, Resume, Projects, Skills, Contact) which seemed pretty standard for portfolios, so I went with that.\nThe AI was helpful in giving me a starting framework. It suggested what should go on each page - like putting highlights on the home page and organizing my resume in a traditional format. This saved me time because I didn’t have to research portfolio best practices from scratch.\n\n\n\nOnce I had the structure, I asked the AI to help draft content for each page. This is where things got interesting. The AI created initial drafts that were… okay, but very generic. For example, when describing my work at Appsyco, it used really formal language and made everything sound more impressive than it actually was.\nI had to go through and rewrite a lot of it to sound like me and to be accurate about what I actually did. I added specific details about the forecasting projects I worked on and the dividend analysis tasks. The AI couldn’t know these details - only I could provide them.\nThe tone was another issue. The AI writes in this very polished, professional way that doesn’t really sound like how I would naturally explain my experience. I spent time making it more conversational while still keeping it professional enough for a portfolio.\n\n\n\nThe biggest advantage was speed. The AI generated a complete website structure and initial content in maybe 15-20 minutes. If I had started from scratch, it probably would have taken me several hours just to figure out the layout and write first drafts.\nThe AI was also really good at technical stuff like creating the CSS styling and making sure all the Markdown formatting was correct. I don’t have much web development experience, so having the AI handle the styling saved me from having to learn CSS in depth.\n\n\n\nThe main limitation was that AI can’t actually know anything about my personal experiences. Every specific detail about my education, my projects, and my work had to come from me. The AI could create a template, but I had to fill in the real substance.\nAnother challenge was that the AI couldn’t help me decide what to emphasize or how to position myself for the kind of jobs I want. Those strategic decisions required me to think about my career goals and what employers in analytics are looking for.\n\n\n\nThis project showed me that AI tools are really useful for getting started and handling technical tasks, but they can’t replace the human element. The final portfolio needed my personal touch, my actual experiences, and my judgment about what matters.\nI think the best approach is using AI as a starting point and then putting in the work to make it authentic and personal. The AI helped me build something faster than I could have alone, but the value comes from the parts that are genuinely mine.\n(Word count: 498)"
   },
   {
-    "objectID": "reflection.html#introduction",
-    "href": "reflection.html#introduction",
-    "title": "Reflection: Using AI Tools to Build a Portfolio Website",
-    "section": "",
-    "text": "Creating this portfolio website using Quarto and Markdown was an enlightening experience that demonstrated both the capabilities and limitations of Large Language Model (LLM) tools in web development and content creation. This reflection explores how AI assistance shaped the development process, the editorial decisions made, and the lessons learned about human-AI collaboration."
-  },
-  {
-    "objectID": "reflection.html#how-llm-tools-helped-brainstorm-website-structure",
-    "href": "reflection.html#how-llm-tools-helped-brainstorm-website-structure",
-    "title": "Reflection: Using AI Tools to Build a Portfolio Website",
-    "section": "",
-    "text": "The initial challenge was conceptualizing a professional portfolio structure that would effectively showcase my skills, experience, and projects. I used an LLM tool to brainstorm the optimal page organization for an MBA student’s portfolio. The AI suggested a five-page structure: Home/About, Resume, Projects, Skills, and Contact. This recommendation was based on best practices for professional portfolios and aligned perfectly with my goal of presenting a comprehensive professional profile.\nThe LLM also helped identify what content should appear on each page. For instance, it suggested that the home page should include key highlights and a professional introduction, while the resume page should follow a traditional format with education, experience, and career goals. This structural guidance provided a solid foundation that I could then customize with my specific information."
-  },
-  {
-    "objectID": "reflection.html#content-generation-and-editorial-process",
-    "href": "reflection.html#content-generation-and-editorial-process",
-    "title": "Reflection: Using AI Tools to Build a Portfolio Website",
-    "section": "",
-    "text": "The AI tool generated initial drafts for all pages, including descriptions of my BYD market entry project and my work experience at Appsyco. However, these drafts required significant editing and verification. I carefully reviewed each section to ensure accuracy, adding specific details about my actual responsibilities and achievements that only I could provide.\nFor example, the AI-generated content about my data analyst role was generic. I enhanced it by adding specific contributions like “supported sales forecasting analysis using historical data” and “enhanced data processing workflows to improve team efficiency.” These details made the content more authentic and credible.\nI also edited the tone and style throughout the website. The AI sometimes used overly formal language or repetitive phrasing. I refined the content to sound more natural and conversational while maintaining professionalism. The skills page, in particular, required reorganization to better categorize my technical, analytical, and business competencies."
-  },
-  {
-    "objectID": "reflection.html#benefits-of-using-ai-tools",
-    "href": "reflection.html#benefits-of-using-ai-tools",
-    "title": "Reflection: Using AI Tools to Build a Portfolio Website",
-    "section": "",
-    "text": "The primary benefit was efficiency. The AI tool generated a complete website structure in minutes, which would have taken hours to create from scratch. It also provided creative suggestions I might not have considered, such as including a professional development section on the resume page and organizing skills into distinct categories.\nThe AI excelled at creating consistent formatting across all pages and ensuring proper Markdown syntax. It also generated a professional CSS stylesheet that provided responsive design and modern styling without requiring deep CSS knowledge."
-  },
-  {
-    "objectID": "reflection.html#limitations-and-challenges",
-    "href": "reflection.html#limitations-and-challenges",
-    "title": "Reflection: Using AI Tools to Build a Portfolio Website",
-    "section": "",
-    "text": "Despite its strengths, the AI tool had notable limitations. It could not verify the accuracy of personal information or provide genuine insights about my experiences. All specific details about my education, work history, and projects required manual input and verification.\nThe AI also struggled with nuance and context. It sometimes generated content that was technically correct but didn’t capture my personal voice or the unique aspects of my professional journey. This required careful editing to ensure the portfolio authentically represented me.\nAdditionally, the AI couldn’t make subjective decisions about what to emphasize or how to position my experience for specific career goals. These strategic choices required human judgment based on my understanding of the job market and my career aspirations."
-  },
-  {
-    "objectID": "reflection.html#conclusion",
-    "href": "reflection.html#conclusion",
-    "title": "Reflection: Using AI Tools to Build a Portfolio Website",
-    "section": "",
-    "text": "Using LLM tools to build this portfolio website was a valuable exercise in human-AI collaboration. The AI provided an excellent starting point, handling structural decisions and generating initial content efficiently. However, the final product required substantial human oversight, editing, and personalization. The experience reinforced that AI tools are powerful assistants but not replacements for human creativity, judgment, and authentic personal expression. The most effective approach combines AI efficiency with human expertise and personal insight.\nWord Count: 487 words"
-  },
-  {
-    "objectID": "skills.html",
-    "href": "skills.html",
-    "title": "Skills",
-    "section": "",
-    "text": "Technical Skills\nTools I use regularly:\n\nPython for data analysis and automation\nExcel for financial modeling and data analysis (pivot tables, advanced formulas)\nTableau for creating dashboards and visualizations\nQuarto for documentation\n\nI’m also comfortable with statistical analysis, data cleaning, database queries, and basic version control.\n\n\nAnalytical Abilities\nI enjoy working with data to find insights that actually matter for business decisions. Some areas where I’ve developed skills:\n\nBusiness analytics and turning data into actionable insights\nMarketing analytics including customer segmentation and campaign analysis\nForecasting and time series analysis\nMarket research and competitive intelligence\nData visualization to tell stories with data\n\nI’ve also learned various analytical frameworks through my MBA like SWOT analysis, Porter’s Five Forces, financial ratio analysis, and regression analysis.\n\n\nBusiness Skills\nBeyond the technical stuff, I think what makes analysis valuable is being able to connect it to business strategy. I try to focus on:\n\nUnderstanding the actual business problem before diving into data\nCommunicating findings in a way that non-technical stakeholders can understand\nThinking critically about what the data is really telling us\nCollaborating with different teams to get the full picture\n\n\n\nAreas of Interest\nThrough my coursework and work experience, I’ve been exposed to:\n\nStrategic management and marketing strategy\nFinancial analysis\nThe electric vehicle market (through my BYD project)\nTechnology sector and e-commerce analytics\n\nI’m always trying to learn more and stay current with what’s happening in business analytics and data science."
-  },
-  {
-    "objectID": "skills.html#data-analysis-visualization",
-    "href": "skills.html#data-analysis-visualization",
-    "title": "Skills",
-    "section": "",
-    "text": "Python – Data analysis, statistical computing, and automation\nExcel – Advanced formulas, pivot tables, financial modeling, and data analysis\nTableau – Interactive dashboards and data visualization\nQuarto – Technical documentation and reproducible reporting"
-  },
-  {
-    "objectID": "skills.html#additional-technical-competencies",
-    "href": "skills.html#additional-technical-competencies",
-    "title": "Skills",
-    "section": "",
-    "text": "Statistical analysis and forecasting\nData cleaning and preprocessing\nDatabase querying and management\nVersion control and collaboration tools"
-  },
-  {
-    "objectID": "skills.html#core-competencies",
-    "href": "skills.html#core-competencies",
-    "title": "Skills",
-    "section": "Core Competencies",
-    "text": "Core Competencies\n\nBusiness Analytics – Transforming data into actionable business insights\nMarketing Analytics – Customer segmentation, campaign analysis, and ROI measurement\nMachine Learning – Predictive modeling and pattern recognition\nForecasting – Time series analysis and trend prediction\nMarket Analysis – Competitive intelligence and market research\nData Visualization – Creating compelling visual narratives from complex data"
-  },
-  {
-    "objectID": "skills.html#analytical-frameworks",
-    "href": "skills.html#analytical-frameworks",
-    "title": "Skills",
-    "section": "Analytical Frameworks",
-    "text": "Analytical Frameworks\n\nSWOT Analysis\nPorter’s Five Forces\nFinancial Ratio Analysis\nStatistical Hypothesis Testing\nRegression Analysis\nTrend Analysis"
-  },
-  {
-    "objectID": "skills.html#strategic-capabilities",
-    "href": "skills.html#strategic-capabilities",
-    "title": "Skills",
-    "section": "Strategic Capabilities",
-    "text": "Strategic Capabilities\n\nProblem Solving – Identifying root causes and developing data-driven solutions\nStrategic Thinking – Connecting analytical insights to business strategy\nCompetitive Analysis – Evaluating market position and identifying opportunities\nMarket Research – Gathering and interpreting market intelligence\nBusiness Communication – Translating technical findings into business language"
-  },
-  {
-    "objectID": "skills.html#professional-skills",
-    "href": "skills.html#professional-skills",
-    "title": "Skills",
-    "section": "Professional Skills",
-    "text": "Professional Skills\n\nStakeholder Management – Effectively communicating with diverse audiences\nProject Collaboration – Working effectively in cross-functional teams\nCritical Thinking – Evaluating information objectively and making sound judgments\nAttention to Detail – Ensuring accuracy and quality in analytical work\nContinuous Learning – Staying current with industry trends and best practices"
-  },
-  {
-    "objectID": "skills.html#business-areas",
-    "href": "skills.html#business-areas",
-    "title": "Skills",
-    "section": "Business Areas",
-    "text": "Business Areas\n\nStrategic Management\nMarketing Strategy\nFinancial Analysis\nOperations Management\nInternational Business"
-  },
-  {
-    "objectID": "skills.html#industry-exposure",
-    "href": "skills.html#industry-exposure",
-    "title": "Skills",
-    "section": "Industry Exposure",
-    "text": "Industry Exposure\n\nElectric Vehicle Market\nTechnology Sector\nFinancial Services\nE-commerce Analytics"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "For my MBA program, I worked on analyzing how BYD could enter the Canadian electric vehicle market. This was a really interesting project because it involved looking at everything from competitive dynamics to regulatory challenges.\nWhat I focused on:\nThe main goal was to figure out if and how BYD could successfully compete in Canada’s EV market. I looked at Tesla’s dominance, analyzed foreign investment policies, evaluated trade tariffs, and even considered launch opportunities like the Vancouver International Auto Expo.\nI also spent time understanding Canadian consumer preferences and what infrastructure would be needed for BYD to actually succeed here.\nWhat I learned:\nThis project taught me a lot about how market research and data analysis come together in strategic planning. The biggest takeaway was understanding that successful market entry isn’t just about having a good product - it’s about timing, positioning, and navigating regulatory environments.\n\n\n\nAt Appsyco, I worked on two main types of projects: sales forecasting and dividend analysis for shareholders.\nSales Forecasting:\nI helped analyze historical sales data to predict future trends. This involved using Excel to build models, running time series analysis, and creating visualizations that made the data easier to understand for stakeholders. It was interesting to see how accurate predictions could help with resource planning.\nDividend Analysis:\nThe dividend work was about helping the company figure out sustainable dividend policies. I looked at financial ratios, analyzed cash flow patterns, and helped put together reports for quarterly reviews.\nWhat made this valuable:\nWorking on these projects showed me how data analysis directly impacts business decisions. The forecasts we created actually influenced how the company allocated resources, and the dividend analysis helped inform shareholder communications.\n\n\n\nDuring my MBA, I’ve also worked on case studies covering marketing strategy, consumer behavior, and business process optimization. Each project has helped me get better at using data to answer business questions."
-  },
-  {
-    "objectID": "projects.html#byd-market-entry-strategy-canada",
-    "href": "projects.html#byd-market-entry-strategy-canada",
-    "title": "Projects",
-    "section": "",
-    "text": "For my MBA program, I worked on analyzing how BYD could enter the Canadian electric vehicle market. This was a really interesting project because it involved looking at everything from competitive dynamics to regulatory challenges.\nWhat I focused on:\nThe main goal was to figure out if and how BYD could successfully compete in Canada’s EV market. I looked at Tesla’s dominance, analyzed foreign investment policies, evaluated trade tariffs, and even considered launch opportunities like the Vancouver International Auto Expo.\nI also spent time understanding Canadian consumer preferences and what infrastructure would be needed for BYD to actually succeed here.\nWhat I learned:\nThis project taught me a lot about how market research and data analysis come together in strategic planning. The biggest takeaway was understanding that successful market entry isn’t just about having a good product - it’s about timing, positioning, and navigating regulatory environments."
-  },
-  {
-    "objectID": "projects.html#forecasting-dividend-analysis-appsyco",
-    "href": "projects.html#forecasting-dividend-analysis-appsyco",
-    "title": "Projects",
-    "section": "",
-    "text": "At Appsyco, I worked on two main types of projects: sales forecasting and dividend analysis for shareholders.\nSales Forecasting:\nI helped analyze historical sales data to predict future trends. This involved using Excel to build models, running time series analysis, and creating visualizations that made the data easier to understand for stakeholders. It was interesting to see how accurate predictions could help with resource planning.\nDividend Analysis:\nThe dividend work was about helping the company figure out sustainable dividend policies. I looked at financial ratios, analyzed cash flow patterns, and helped put together reports for quarterly reviews.\nWhat made this valuable:\nWorking on these projects showed me how data analysis directly impacts business decisions. The forecasts we created actually influenced how the company allocated resources, and the dividend analysis helped inform shareholder communications."
-  },
-  {
-    "objectID": "projects.html#additional-academic-projects",
-    "href": "projects.html#additional-academic-projects",
-    "title": "Projects",
-    "section": "",
-    "text": "Throughout my MBA program, I have completed various case studies and analytical projects focusing on:\n\nMarketing strategy development\nConsumer behavior analysis\nBusiness process optimization\nData-driven decision making frameworks\n\n\nView My Skills | Contact Me"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Get In Touch\nI’m always happy to connect with people in the analytics and business space. Whether you have an opportunity, want to chat about data projects, or just want to network, feel free to reach out.\n\n\nContact Information\nEmail: dhimanjatin191@gmail.com\nPhone: 778-122-6646\nLinkedIn: Jatin Kumar\nLocation: Vancouver, Canada\n\n\nWhat I’m Looking For\nRight now I’m finishing up my MBA and looking for opportunities in business analytics and data analysis. I’m interested in:\n\nInternships or full-time roles in business analytics\nData analysis positions, especially those involving market research or strategic planning\nProject collaborations where I can apply my analytical skills\nConnecting with other people working in analytics\n\n\n\nTopics I Enjoy Discussing\nIf you want to chat about any of these, I’m all ears:\n\nBusiness analytics approaches and tools\nMarket research and competitive analysis\nData visualization\nMBA experiences\nCareer paths in analytics and data science\n\nI usually respond to emails within a day or two. If something’s urgent, just mention that in the subject line.\nYou can also find me on LinkedIn where I occasionally share things I’m learning about analytics and business strategy."
-  },
-  {
-    "objectID": "contact.html#connect-with-me",
-    "href": "contact.html#connect-with-me",
-    "title": "Contact",
-    "section": "Connect With Me",
-    "text": "Connect With Me\nI’m active on LinkedIn and regularly share insights about business analytics, market trends, and professional development. Let’s connect and grow our professional networks together!\n\nBack to Home | View My Resume | See My Projects"
-  },
-  {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Resume",
-    "section": "",
-    "text": "MBA candidate with a background in computer applications and hands-on experience in data analysis. I enjoy identifying business problems, working with data, and presenting insights that help teams make better decisions."
-  },
-  {
-    "objectID": "resume.html#master-of-business-administration-mba",
-    "href": "resume.html#master-of-business-administration-mba",
-    "title": "Resume",
-    "section": "Master of Business Administration (MBA)",
-    "text": "Master of Business Administration (MBA)\nUniversity Canada West – Vancouver, Canada\nCurrently Pursuing\nFocusing on business analytics, strategic management, marketing analytics, and data-driven decision making."
-  },
-  {
-    "objectID": "resume.html#bachelor-of-computer-application-bca",
-    "href": "resume.html#bachelor-of-computer-application-bca",
-    "title": "Resume",
-    "section": "Bachelor of Computer Application (BCA)",
-    "text": "Bachelor of Computer Application (BCA)\nCompleted in 2020\nStudied programming, database management, systems analysis, and IT fundamentals."
-  },
-  {
-    "objectID": "resume.html#data-analyst-appsyco",
-    "href": "resume.html#data-analyst-appsyco",
-    "title": "Resume",
-    "section": "Data Analyst – Appsyco",
-    "text": "Data Analyst – Appsyco\n2021 – 2023\nWorked with senior analysts on various data projects, mainly focused on sales forecasting and financial analysis. My role involved analyzing historical data, creating visualizations, and helping present findings to stakeholders.\nSome of what I worked on:\n\nSales forecasting using statistical methods and historical trends\nDividend analysis and financial research for shareholder reports\nData processing and visualization for team presentations\nCross-functional collaboration on analytical projects\n\nThe work helped me understand how data analysis fits into broader business strategy and decision-making processes."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "About Me",
-    "section": "",
-    "text": "MBA Candidate | Business Analytics Enthusiast | Aspiring Data Analyst\nUniversity Canada West\n\n\nI’m currently pursuing my MBA at University Canada West, focusing on business analytics and data-driven decision making. What excites me most is taking complex business problems and finding insights through data analysis that actually help organizations make better decisions.\nI want to build a career where I can combine analytical tools with business strategy to solve real problems.\n\n\n\n\nMBA student specializing in Business Analytics\nBachelor of Computer Application graduate (2020)\nWorked as a Data Analyst at Appsyco (2021-2023)\nExperience in sales forecasting and financial analysis\nInterested in market strategy and competitive analysis\n\n\n\n\nThrough my studies and work experience, I’ve learned how powerful data can be when used correctly. I enjoy working on projects that involve analyzing market trends, understanding customer behavior, and helping businesses make informed strategic decisions.\nSome areas I’m particularly interested in include using data visualization to tell compelling stories, applying analytical frameworks to business challenges, and understanding how companies compete in different markets."
-  },
-  {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "About Me",
-    "section": "About Me",
-    "text": "About Me\nI’m currently pursuing my MBA at University Canada West, focusing on business analytics and data-driven decision making. What excites me most is taking complex business problems and finding insights through data analysis that actually help organizations make better decisions.\nI want to build a career where I can combine analytical tools with business strategy to solve real problems."
-  },
-  {
-    "objectID": "index.html#key-highlights",
-    "href": "index.html#key-highlights",
-    "title": "About Me",
-    "section": "",
-    "text": "MBA Business Analytics student\nBachelor of Computer Application graduate\nFormer Data Analyst at Appsyco\nExperience in forecasting and dividend analysis\nStrong interest in market strategy and competitive analysis"
-  },
-  {
-    "objectID": "index.html#professional-focus",
-    "href": "index.html#professional-focus",
-    "title": "About Me",
-    "section": "",
-    "text": "My academic and professional journey has been centered around leveraging data to drive business outcomes. Through my education and work experience, I’ve developed a comprehensive understanding of how analytics can transform raw data into strategic business intelligence.\nI am passionate about:\n\nApplying analytical frameworks to solve complex business challenges\nUsing data visualization to communicate insights effectively\nUnderstanding market dynamics and competitive landscapes\nDeveloping strategic recommendations based on data-driven insights\n\n\nWelcome to my portfolio. Feel free to explore my resume, projects, skills, and contact information using the navigation menu above."
-  },
-  {
-    "objectID": "appendix.html",
-    "href": "appendix.html",
-    "title": "Appendix: AI Drafts and Revisions",
-    "section": "",
-    "text": "This shows some examples of the AI-generated content and how I edited it.\n\n\nI asked ChatGPT: “What pages should I include in a portfolio website for an MBA student?”\nThe AI suggested: - Home/About page - Resume page\n- Projects page - Skills page - Contact page\nI kept this structure because it made sense and covered everything I needed to show.\n\n\n\nAI’s first draft: “Hello! I’m an MBA student with a passion for data analytics. I enjoy working with data and solving business problems.”\nProblem: Way too generic and didn’t sound like me at all.\nMy revision: “I’m currently pursuing my MBA at University Canada West, focusing on business analytics and data-driven decision making. What excites me most is taking complex business problems and finding insights through data analysis.”\nI made it more specific and conversational.\n\n\n\nAI’s draft: “Worked on various data analysis projects. Helped with forecasting and financial analysis.”\nProblem: Too vague, didn’t explain what I actually did.\nMy version: “Worked with senior analysts on various data projects, mainly focused on sales forecasting and financial analysis. My role involved analyzing historical data, creating visualizations, and helping present findings to stakeholders.”\nAdded actual details about the work I did.\n\n\n\nAI’s draft: “This was a project about BYD entering the Canadian market. I analyzed the electric vehicle market and looked at competition.”\nProblem: Way too short and didn’t show what I actually learned or did.\nMy version: “For my MBA program, I worked on analyzing how BYD could enter the Canadian electric vehicle market. This was a really interesting project because it involved looking at everything from competitive dynamics to regulatory challenges.”\nMade it more detailed and showed what made the project interesting.\n\n\n\nAI’s draft: Just listed: “Python, Excel, Tableau, Business Analytics, Problem Solving, Communication”\nProblem: Just a list with no context.\nMy version: Organized into categories (Technical Skills, Analytical Abilities, Business Skills) and added brief descriptions of what I use each tool for.\nThis gave more context about my actual capabilities.\n\n\n\nThe AI gave me a good starting structure, but I had to: - Rewrite almost everything to sound like me - Add all the specific details about my actual work and projects - Make the tone more conversational and less formal - Remove generic phrases that could apply to anyone - Add personal touches about what I find interesting\nThe technical stuff (CSS, Markdown formatting) the AI handled well. The content needed a lot of work to make it authentic."
-  },
-  {
-    "objectID": "appendix.html#a.-original-llm-generated-site-map",
-    "href": "appendix.html#a.-original-llm-generated-site-map",
-    "title": "Appendix: AI Drafts and Revisions",
-    "section": "",
-    "text": "“Create a site map for a professional portfolio website for an MBA student interested in business analytics and data analysis.”\n\n\n\nSuggested Site Structure: 1. Home/About Page - Personal introduction and professional overview 2. Resume/CV Page - Education, experience, and qualifications 3. Projects Page - Showcase of academic and professional projects 4. Skills Page - Technical and soft skills inventory 5. Contact Page - Contact information and networking opportunities\nAdditional Recommendations: - Include navigation menu for easy access - Add downloadable resume option - Incorporate professional photo - Include links to LinkedIn and other professional profiles - Ensure mobile responsiveness - Use consistent branding and color scheme\n\n\n\nAccepted - This structure was comprehensive and aligned with portfolio best practices. No changes were needed to the overall architecture."
-  },
-  {
-    "objectID": "appendix.html#b.-home-page-content-evolution",
-    "href": "appendix.html#b.-home-page-content-evolution",
-    "title": "Appendix: AI Drafts and Revisions",
-    "section": "",
-    "text": "# Welcome to My Portfolio\n\nHello! I'm an MBA student with a passion for data analytics. I enjoy working with data and solving business problems. I have experience in data analysis and am looking for opportunities in business analytics.\n\n## About Me\nI am currently studying at University Canada West. I have a background in computer applications and have worked as a data analyst.\n\n\n\n\nToo generic and lacking personality\nMissing specific details about background\nWeak professional positioning\nNo clear value proposition\nInsufficient detail about interests and goals\n\n\n\n\n# Jatin Kumar\n**MBA Candidate | Business Analytics Enthusiast | Aspiring Data Analyst**\n*University Canada West*\n\n## About Me\nI am an MBA student at University Canada West with a strong interest in business analytics, data-driven decision making, and market strategy. I enjoy solving business problems by analyzing complex data and transforming it into meaningful insights that help organizations make better strategic decisions.\n\nMy goal is to build a career in business analytics where I can apply analytical tools and business knowledge to solve real-world problems.\n\n\n\n\nAdded specific name and title for professional branding\nIncluded clear positioning statement\nAdded specific interests (market strategy, data-driven decision making)\nArticulated clear career goal\nEnhanced professional tone while maintaining approachability"
-  },
-  {
-    "objectID": "appendix.html#c.-resume-work-experience-section",
-    "href": "appendix.html#c.-resume-work-experience-section",
-    "title": "Appendix: AI Drafts and Revisions",
-    "section": "",
-    "text": "## Work Experience\n\n**Data Analyst - Appsyco (2021-2023)**\n\nWorked on various data analysis projects. Helped with forecasting and financial analysis. Collaborated with team members on different tasks.\n\n\n\n\nVague descriptions lacking specific achievements\nNo quantifiable results or impact\nMissing technical details about methodologies used\nWeak action verbs\nNo context about the company or role scope\n\n\n\n\n## Data Analyst – Appsyco\n**2021 – 2023**\n\n### Responsibilities:\n- Assisted senior data scientists and analysts on data analysis projects\n- Supported sales forecasting analysis using historical data and statistical methods\n- Assisted with shareholder dividend analysis and financial research\n- Structured business data into meaningful insights for stakeholder presentations\n- Collaborated with cross-functional teams to deliver analytical solutions\n- Developed data visualizations to communicate findings effectively\n\n### Key Achievements:\n- Contributed to multiple forecasting projects that improved sales prediction accuracy\n- Supported financial analysis initiatives that informed dividend distribution strategies\n- Enhanced data processing workflows to improve team efficiency\n\n\n\n\nAdded specific responsibilities with action verbs\nIncluded methodologies (statistical methods, data visualization)\nAdded achievements section to demonstrate impact\nProvided context about collaboration and stakeholder engagement\nEnhanced credibility with specific project types"
-  },
-  {
-    "objectID": "appendix.html#d.-projects-page---byd-case-study",
-    "href": "appendix.html#d.-projects-page---byd-case-study",
-    "title": "Appendix: AI Drafts and Revisions",
-    "section": "",
-    "text": "## BYD Market Entry Project\n\nThis was a project about BYD entering the Canadian market. I analyzed the electric vehicle market and looked at competition. The project examined market opportunities and challenges.\n\n\n\n\nExtremely brief with no depth\nMissing analytical framework\nNo mention of specific methodologies\nLacks outcome or insights gained\nDoesn’t demonstrate analytical skills\n\n\n\n\n## BYD Market Entry Strategy – Canada\n\n### Overview\nThis MBA project analyzed how BYD could successfully enter the Canadian electric vehicle market. The project combined market research, competitive analysis, and strategic planning to develop a comprehensive market entry strategy.\n\n### Project Focus:\n- Market entry strategy for BYD in the Canadian automotive sector\n- Competitive analysis with Tesla and other EV manufacturers\n- Analysis of foreign policies impacting international expansion\n- Trade tariff evaluation and regulatory considerations\n- Launch opportunities such as the Vancouver International Auto Expo\n- Assessment of Canadian consumer preferences and market trends\n\n### Methodology:\n- Conducted comprehensive market research on Canadian EV landscape\n- Analyzed competitive positioning and market share data\n- Evaluated regulatory environment and policy implications\n- Assessed market entry barriers and opportunities\n\n### Outcome:\nThe project demonstrated how analytics and market research can help companies expand globally and compete in new markets. Key findings included strategic timing recommendations, optimal market positioning strategies, and actionable insights for overcoming entry barriers.\n\n\n\n\nAdded comprehensive overview to establish context\nIncluded specific analytical components (competitive analysis, policy analysis)\nAdded methodology section to demonstrate analytical approach\nIncluded outcome section to show value and insights\nDemonstrated strategic thinking and business acumen"
-  },
-  {
-    "objectID": "appendix.html#e.-skills-page-organization",
-    "href": "appendix.html#e.-skills-page-organization",
-    "title": "Appendix: AI Drafts and Revisions",
-    "section": "",
-    "text": "## Skills\n\n- Python\n- Excel\n- Tableau\n- Business Analytics\n- Problem Solving\n- Communication\n\n\n\n\nNo categorization or structure\nMixed technical and soft skills\nNo context or proficiency levels\nToo brief to be meaningful\nDoesn’t showcase breadth of capabilities\n\n\n\n\n# Technical Skills\n## Data Analysis & Visualization\n- Python – Data analysis, statistical computing, and automation\n- Excel – Advanced formulas, pivot tables, financial modeling\n- Tableau – Interactive dashboards and data visualization\n- Quarto – Technical documentation and reproducible reporting\n\n# Analytical Skills\n## Core Competencies\n- Business Analytics – Transforming data into actionable insights\n- Marketing Analytics – Customer segmentation and ROI measurement\n- Machine Learning – Predictive modeling and pattern recognition\n- Forecasting – Time series analysis and trend prediction\n\n# Business Strengths\n## Strategic Capabilities\n- Problem Solving – Identifying root causes and developing solutions\n- Strategic Thinking – Connecting insights to business strategy\n- Business Communication – Translating technical findings\n\n\n\n\nCreated clear categories (Technical, Analytical, Business)\nAdded descriptions to provide context for each skill\nOrganized hierarchically for better readability\nDemonstrated depth and breadth of capabilities\nMade skills more tangible and credible"
-  },
-  {
-    "objectID": "appendix.html#f.-contact-page-enhancement",
-    "href": "appendix.html#f.-contact-page-enhancement",
-    "title": "Appendix: AI Drafts and Revisions",
-    "section": "",
-    "text": "## Contact\n\nEmail: dhimanjatin191@gmail.com\nPhone: 778-122-6646\n\nFeel free to reach out!\n\n\n\n\nToo minimal and transactional\nMissing professional context\nNo call to action\nDoesn’t encourage networking\nNo information about availability or interests\n\n\n\n\n# Get In Touch\n\nI'm always interested in connecting with professionals, potential employers, and collaborators in the business analytics and data science space. Whether you have a project opportunity, want to discuss analytics trends, or simply want to network, I'd love to hear from you.\n\n## Contact Information\n**Name:** Jatin Kumar\n**Email:** dhimanjatin191@gmail.com\n**Phone:** 778-122-6646\n**LinkedIn:** Jatin Kumar\n**Location:** Vancouver, Canada\n\n## Let's Connect\nI'm particularly interested in opportunities related to:\n- Business Analytics roles\n- Data Analysis positions\n- Consulting projects\n- Collaborative analytics projects\n- Networking with analytics professionals\n\n\n\n\nAdded welcoming introduction to encourage contact\nFormatted contact information professionally\nAdded location and LinkedIn for completeness\nIncluded specific interests to guide conversations\nCreated more engaging and professional tone"
-  },
-  {
-    "objectID": "appendix.html#g.-css-styling-decisions",
-    "href": "appendix.html#g.-css-styling-decisions",
-    "title": "Appendix: AI Drafts and Revisions",
-    "section": "",
-    "text": "Basic CSS with minimal styling and standard colors.\n\n\n\nEnhanced significantly - Added: - Custom color scheme with CSS variables - Responsive design breakpoints for mobile devices - Hover effects and transitions for interactivity - Professional typography with proper hierarchy - Card-based layouts for projects and skills - Accessibility features (focus states, proper contrast) - Print styles for resume printing\n\n\n\nThe original CSS was functional but basic. Enhanced styling creates a more professional impression and improves user experience across devices."
-  },
-  {
-    "objectID": "appendix.html#h.-overall-content-strategy",
-    "href": "appendix.html#h.-overall-content-strategy",
-    "title": "Appendix: AI Drafts and Revisions",
-    "section": "",
-    "text": "Excellent at creating structural frameworks\nGood at suggesting standard portfolio sections\nHelpful for generating initial content templates\nEfficient at producing consistent formatting\nUseful for brainstorming content categories\n\n\n\n\n\nGenerated generic content lacking personal voice\nCould not verify factual accuracy of personal information\nNeeded significant editing for authenticity\nLacked strategic positioning insights\nRequired human judgment for emphasis and tone\n\n\n\n\n\nAdded all specific personal details and achievements\nEnsured accuracy of work experience and education\nRefined tone to match personal communication style\nMade strategic decisions about content emphasis\nEnhanced credibility through specific examples\nEnsured consistency of professional narrative"
-  },
-  {
-    "objectID": "appendix.html#i.-lessons-learned",
-    "href": "appendix.html#i.-lessons-learned",
-    "title": "Appendix: AI Drafts and Revisions",
-    "section": "",
-    "text": "Generating initial structure and templates\nSuggesting content organization\nCreating boilerplate code (HTML, CSS, Markdown)\nBrainstorming section ideas\nProviding formatting consistency\n\n\n\n\n\nPersonal information accuracy\nAuthentic voice and tone\nStrategic career positioning\nSpecific achievements and details\nQuality control and fact-checking\nFinal editorial decisions\n\n\n\n\n\nUse AI for initial drafts, not final content\nAlways verify and personalize AI-generated content\nAdd specific details that only you know\nMaintain consistent voice throughout\nEnsure all claims are accurate and verifiable\nReview for authenticity and credibility"
-  },
-  {
-    "objectID": "appendix.html#conclusion",
-    "href": "appendix.html#conclusion",
-    "title": "Appendix: AI Drafts and Revisions",
-    "section": "",
-    "text": "This appendix demonstrates that effective use of LLM tools requires a collaborative approach where AI handles structure and initial content generation, while human oversight ensures accuracy, authenticity, and strategic alignment. The final portfolio is significantly stronger than either AI-generated or purely human-created content alone, showcasing the value of human-AI collaboration."
-  },
-  {
-    "objectID": "index.html#background",
-    "href": "index.html#background",
-    "title": "About Me",
-    "section": "Background",
-    "text": "Background\n\nMBA student specializing in Business Analytics\nBachelor of Computer Application graduate (2020)\nWorked as a Data Analyst at Appsyco (2021-2023)\nExperience in sales forecasting and financial analysis\nInterested in market strategy and competitive analysis"
-  },
-  {
-    "objectID": "index.html#what-im-passionate-about",
-    "href": "index.html#what-im-passionate-about",
-    "title": "About Me",
-    "section": "What I’m Passionate About",
-    "text": "What I’m Passionate About\nThrough my studies and work experience, I’ve learned how powerful data can be when used correctly. I enjoy working on projects that involve analyzing market trends, understanding customer behavior, and helping businesses make informed strategic decisions.\nSome areas I’m particularly interested in include using data visualization to tell compelling stories, applying analytical frameworks to business challenges, and understanding how companies compete in different markets."
-  },
-  {
-    "objectID": "projects.html#other-work",
-    "href": "projects.html#other-work",
-    "title": "Projects",
-    "section": "",
-    "text": "During my MBA, I’ve also worked on case studies covering marketing strategy, consumer behavior, and business process optimization. Each project has helped me get better at using data to answer business questions."
-  },
-  {
     "objectID": "reflection.html#getting-started-with-ai",
     "href": "reflection.html#getting-started-with-ai",
     "title": "Reflection on Using AI Tools for Portfolio Development",
@@ -341,6 +40,104 @@
     "title": "Reflection on Using AI Tools for Portfolio Development",
     "section": "",
     "text": "This project showed me that AI tools are really useful for getting started and handling technical tasks, but they can’t replace the human element. The final portfolio needed my personal touch, my actual experiences, and my judgment about what matters.\nI think the best approach is using AI as a starting point and then putting in the work to make it authentic and personal. The AI helped me build something faster than I could have alone, but the value comes from the parts that are genuinely mine.\n(Word count: 498)"
+  },
+  {
+    "objectID": "skills.html",
+    "href": "skills.html",
+    "title": "Skills",
+    "section": "",
+    "text": "Technical Skills\nTools I use regularly:\n\nPython for data analysis and automation\nExcel for financial modeling and data analysis (pivot tables, advanced formulas)\nTableau for creating dashboards and visualizations\nQuarto for documentation\n\nI’m also comfortable with statistical analysis, data cleaning, database queries, and basic version control.\n\n\nAnalytical Abilities\nI enjoy working with data to find insights that actually matter for business decisions. Some areas where I’ve developed skills:\n\nBusiness analytics and turning data into actionable insights\nMarketing analytics including customer segmentation and campaign analysis\nForecasting and time series analysis\nMarket research and competitive intelligence\nData visualization to tell stories with data\n\nI’ve also learned various analytical frameworks through my MBA like SWOT analysis, Porter’s Five Forces, financial ratio analysis, and regression analysis.\n\n\nBusiness Skills\nBeyond the technical stuff, I think what makes analysis valuable is being able to connect it to business strategy. I try to focus on:\n\nUnderstanding the actual business problem before diving into data\nCommunicating findings in a way that non-technical stakeholders can understand\nThinking critically about what the data is really telling us\nCollaborating with different teams to get the full picture\n\n\n\nAreas of Interest\nThrough my coursework and work experience, I’ve been exposed to:\n\nStrategic management and marketing strategy\nFinancial analysis\nThe electric vehicle market (through my BYD project)\nTechnology sector and e-commerce analytics\n\nI’m always trying to learn more and stay current with what’s happening in business analytics and data science."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "For my MBA program, I worked on analyzing how BYD could enter the Canadian electric vehicle market. This was a really interesting project because it involved looking at everything from competitive dynamics to regulatory challenges.\nWhat I focused on:\nThe main goal was to figure out if and how BYD could successfully compete in Canada’s EV market. I looked at Tesla’s dominance, analyzed foreign investment policies, evaluated trade tariffs, and even considered launch opportunities like the Vancouver International Auto Expo.\nI also spent time understanding Canadian consumer preferences and what infrastructure would be needed for BYD to actually succeed here.\nWhat I learned:\nThis project taught me a lot about how market research and data analysis come together in strategic planning. The biggest takeaway was understanding that successful market entry isn’t just about having a good product - it’s about timing, positioning, and navigating regulatory environments.\n\n\n\nAt Appsyco, I worked on two main types of projects: sales forecasting and dividend analysis for shareholders.\nSales Forecasting:\nI helped analyze historical sales data to predict future trends. This involved using Excel to build models, running time series analysis, and creating visualizations that made the data easier to understand for stakeholders. It was interesting to see how accurate predictions could help with resource planning.\nDividend Analysis:\nThe dividend work was about helping the company figure out sustainable dividend policies. I looked at financial ratios, analyzed cash flow patterns, and helped put together reports for quarterly reviews.\nWhat made this valuable:\nWorking on these projects showed me how data analysis directly impacts business decisions. The forecasts we created actually influenced how the company allocated resources, and the dividend analysis helped inform shareholder communications.\n\n\n\nDuring my MBA, I’ve also worked on case studies covering marketing strategy, consumer behavior, and business process optimization. Each project has helped me get better at using data to answer business questions."
+  },
+  {
+    "objectID": "projects.html#byd-market-entry-strategy-canada",
+    "href": "projects.html#byd-market-entry-strategy-canada",
+    "title": "Projects",
+    "section": "",
+    "text": "For my MBA program, I worked on analyzing how BYD could enter the Canadian electric vehicle market. This was a really interesting project because it involved looking at everything from competitive dynamics to regulatory challenges.\nWhat I focused on:\nThe main goal was to figure out if and how BYD could successfully compete in Canada’s EV market. I looked at Tesla’s dominance, analyzed foreign investment policies, evaluated trade tariffs, and even considered launch opportunities like the Vancouver International Auto Expo.\nI also spent time understanding Canadian consumer preferences and what infrastructure would be needed for BYD to actually succeed here.\nWhat I learned:\nThis project taught me a lot about how market research and data analysis come together in strategic planning. The biggest takeaway was understanding that successful market entry isn’t just about having a good product - it’s about timing, positioning, and navigating regulatory environments."
+  },
+  {
+    "objectID": "projects.html#forecasting-dividend-analysis-appsyco",
+    "href": "projects.html#forecasting-dividend-analysis-appsyco",
+    "title": "Projects",
+    "section": "",
+    "text": "At Appsyco, I worked on two main types of projects: sales forecasting and dividend analysis for shareholders.\nSales Forecasting:\nI helped analyze historical sales data to predict future trends. This involved using Excel to build models, running time series analysis, and creating visualizations that made the data easier to understand for stakeholders. It was interesting to see how accurate predictions could help with resource planning.\nDividend Analysis:\nThe dividend work was about helping the company figure out sustainable dividend policies. I looked at financial ratios, analyzed cash flow patterns, and helped put together reports for quarterly reviews.\nWhat made this valuable:\nWorking on these projects showed me how data analysis directly impacts business decisions. The forecasts we created actually influenced how the company allocated resources, and the dividend analysis helped inform shareholder communications."
+  },
+  {
+    "objectID": "projects.html#other-work",
+    "href": "projects.html#other-work",
+    "title": "Projects",
+    "section": "",
+    "text": "During my MBA, I’ve also worked on case studies covering marketing strategy, consumer behavior, and business process optimization. Each project has helped me get better at using data to answer business questions."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Get In Touch\nI’m always happy to connect with people in the analytics and business space. Whether you have an opportunity, want to chat about data projects, or just want to network, feel free to reach out.\n\n\nContact Information\nEmail: dhimanjatin191@gmail.com\nPhone: 778-122-6646\nLinkedIn: Jatin Kumar\nLocation: Vancouver, Canada\n\n\nWhat I’m Looking For\nRight now I’m finishing up my MBA and looking for opportunities in business analytics and data analysis. I’m interested in:\n\nInternships or full-time roles in business analytics\nData analysis positions, especially those involving market research or strategic planning\nProject collaborations where I can apply my analytical skills\nConnecting with other people working in analytics\n\n\n\nTopics I Enjoy Discussing\nIf you want to chat about any of these, I’m all ears:\n\nBusiness analytics approaches and tools\nMarket research and competitive analysis\nData visualization\nMBA experiences\nCareer paths in analytics and data science\n\nI usually respond to emails within a day or two. If something’s urgent, just mention that in the subject line.\nYou can also find me on LinkedIn where I occasionally share things I’m learning about analytics and business strategy."
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "MBA candidate with a background in computer applications and hands-on experience in data analysis. I enjoy identifying business problems, working with data, and presenting insights that help teams make better decisions."
+  },
+  {
+    "objectID": "resume.html#master-of-business-administration-mba",
+    "href": "resume.html#master-of-business-administration-mba",
+    "title": "Resume",
+    "section": "Master of Business Administration (MBA)",
+    "text": "Master of Business Administration (MBA)\nUniversity Canada West – Vancouver, Canada\nCurrently Pursuing\nFocusing on business analytics, strategic management, marketing analytics, and data-driven decision making."
+  },
+  {
+    "objectID": "resume.html#bachelor-of-computer-application-bca",
+    "href": "resume.html#bachelor-of-computer-application-bca",
+    "title": "Resume",
+    "section": "Bachelor of Computer Application (BCA)",
+    "text": "Bachelor of Computer Application (BCA)\nCompleted in 2020\nStudied programming, database management, systems analysis, and IT fundamentals."
+  },
+  {
+    "objectID": "resume.html#data-analyst-appsyco",
+    "href": "resume.html#data-analyst-appsyco",
+    "title": "Resume",
+    "section": "Data Analyst – Appsyco",
+    "text": "Data Analyst – Appsyco\n2021 – 2023\nWorked with senior analysts on various data projects, mainly focused on sales forecasting and financial analysis. My role involved analyzing historical data, creating visualizations, and helping present findings to stakeholders.\nSome of what I worked on:\n\nSales forecasting using statistical methods and historical trends\nDividend analysis and financial research for shareholder reports\nData processing and visualization for team presentations\nCross-functional collaboration on analytical projects\n\nThe work helped me understand how data analysis fits into broader business strategy and decision-making processes."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "About Me",
+    "section": "About Me",
+    "text": "About Me\nI’m currently pursuing my MBA at University Canada West, focusing on business analytics and data-driven decision making. What excites me most is taking complex business problems and finding insights through data analysis that actually help organizations make better decisions.\nI want to build a career where I can combine analytical tools with business strategy to solve real problems."
+  },
+  {
+    "objectID": "index.html#background",
+    "href": "index.html#background",
+    "title": "About Me",
+    "section": "Background",
+    "text": "Background\n\nMBA student specializing in Business Analytics\nBachelor of Computer Application graduate (2020)\nWorked as a Data Analyst at Appsyco (2021-2023)\nExperience in sales forecasting and financial analysis\nInterested in market strategy and competitive analysis"
+  },
+  {
+    "objectID": "index.html#what-im-passionate-about",
+    "href": "index.html#what-im-passionate-about",
+    "title": "About Me",
+    "section": "What I’m Passionate About",
+    "text": "What I’m Passionate About\nThrough my studies and work experience, I’ve learned how powerful data can be when used correctly. I enjoy working on projects that involve analyzing market trends, understanding customer behavior, and helping businesses make informed strategic decisions.\nSome areas I’m particularly interested in include using data visualization to tell compelling stories, applying analytical frameworks to business challenges, and understanding how companies compete in different markets."
+  },
+  {
+    "objectID": "appendix.html",
+    "href": "appendix.html",
+    "title": "Appendix: AI Drafts and Revisions",
+    "section": "",
+    "text": "This shows some examples of the AI-generated content and how I edited it.\n\n\nI asked ChatGPT: “What pages should I include in a portfolio website for an MBA student?”\nThe AI suggested: - Home/About page - Resume page\n- Projects page - Skills page - Contact page\nI kept this structure because it made sense and covered everything I needed to show.\n\n\n\nAI’s first draft: “Hello! I’m an MBA student with a passion for data analytics. I enjoy working with data and solving business problems.”\nProblem: Way too generic and didn’t sound like me at all.\nMy revision: “I’m currently pursuing my MBA at University Canada West, focusing on business analytics and data-driven decision making. What excites me most is taking complex business problems and finding insights through data analysis.”\nI made it more specific and conversational.\n\n\n\nAI’s draft: “Worked on various data analysis projects. Helped with forecasting and financial analysis.”\nProblem: Too vague, didn’t explain what I actually did.\nMy version: “Worked with senior analysts on various data projects, mainly focused on sales forecasting and financial analysis. My role involved analyzing historical data, creating visualizations, and helping present findings to stakeholders.”\nAdded actual details about the work I did.\n\n\n\nAI’s draft: “This was a project about BYD entering the Canadian market. I analyzed the electric vehicle market and looked at competition.”\nProblem: Way too short and didn’t show what I actually learned or did.\nMy version: “For my MBA program, I worked on analyzing how BYD could enter the Canadian electric vehicle market. This was a really interesting project because it involved looking at everything from competitive dynamics to regulatory challenges.”\nMade it more detailed and showed what made the project interesting.\n\n\n\nAI’s draft: Just listed: “Python, Excel, Tableau, Business Analytics, Problem Solving, Communication”\nProblem: Just a list with no context.\nMy version: Organized into categories (Technical Skills, Analytical Abilities, Business Skills) and added brief descriptions of what I use each tool for.\nThis gave more context about my actual capabilities.\n\n\n\nThe AI gave me a good starting structure, but I had to: - Rewrite almost everything to sound like me - Add all the specific details about my actual work and projects - Make the tone more conversational and less formal - Remove generic phrases that could apply to anyone - Add personal touches about what I find interesting\nThe technical stuff (CSS, Markdown formatting) the AI handled well. The content needed a lot of work to make it authentic."
   },
   {
     "objectID": "appendix.html#website-structure",
