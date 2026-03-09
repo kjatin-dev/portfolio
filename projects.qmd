@@ -1,0 +1,39 @@
+---
+title: "Projects"
+---
+
+# Projects
+
+## BYD Market Entry Strategy – Canada
+
+For my MBA program, I worked on analyzing how BYD could enter the Canadian electric vehicle market. This was a really interesting project because it involved looking at everything from competitive dynamics to regulatory challenges.
+
+**What I focused on:**
+
+The main goal was to figure out if and how BYD could successfully compete in Canada's EV market. I looked at Tesla's dominance, analyzed foreign investment policies, evaluated trade tariffs, and even considered launch opportunities like the Vancouver International Auto Expo.
+
+I also spent time understanding Canadian consumer preferences and what infrastructure would be needed for BYD to actually succeed here.
+
+**What I learned:**
+
+This project taught me a lot about how market research and data analysis come together in strategic planning. The biggest takeaway was understanding that successful market entry isn't just about having a good product - it's about timing, positioning, and navigating regulatory environments.
+
+## Forecasting & Dividend Analysis – Appsyco
+
+At Appsyco, I worked on two main types of projects: sales forecasting and dividend analysis for shareholders.
+
+**Sales Forecasting:**
+
+I helped analyze historical sales data to predict future trends. This involved using Excel to build models, running time series analysis, and creating visualizations that made the data easier to understand for stakeholders. It was interesting to see how accurate predictions could help with resource planning.
+
+**Dividend Analysis:**
+
+The dividend work was about helping the company figure out sustainable dividend policies. I looked at financial ratios, analyzed cash flow patterns, and helped put together reports for quarterly reviews.
+
+**What made this valuable:**
+
+Working on these projects showed me how data analysis directly impacts business decisions. The forecasts we created actually influenced how the company allocated resources, and the dividend analysis helped inform shareholder communications.
+
+## Other Work
+
+During my MBA, I've also worked on case studies covering marketing strategy, consumer behavior, and business process optimization. Each project has helped me get better at using data to answer business questions.

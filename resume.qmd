@@ -1,0 +1,44 @@
+---
+title: "Resume"
+---
+
+# Professional Summary
+
+MBA candidate with a background in computer applications and hands-on experience in data analysis. I enjoy identifying business problems, working with data, and presenting insights that help teams make better decisions.
+
+# Education
+
+## Master of Business Administration (MBA)
+**University Canada West** – Vancouver, Canada  
+*Currently Pursuing*
+
+Focusing on business analytics, strategic management, marketing analytics, and data-driven decision making.
+
+## Bachelor of Computer Application (BCA)
+**Completed in 2020**
+
+Studied programming, database management, systems analysis, and IT fundamentals.
+
+# Work Experience
+
+## Data Analyst – Appsyco
+**2021 – 2023**
+
+Worked with senior analysts on various data projects, mainly focused on sales forecasting and financial analysis. My role involved analyzing historical data, creating visualizations, and helping present findings to stakeholders.
+
+Some of what I worked on:
+
+- Sales forecasting using statistical methods and historical trends
+- Dividend analysis and financial research for shareholder reports
+- Data processing and visualization for team presentations
+- Cross-functional collaboration on analytical projects
+
+The work helped me understand how data analysis fits into broader business strategy and decision-making processes.
+
+# Career Goal
+
+I want to build a career in business analytics where I can use data to help organizations make smarter decisions. I'm particularly interested in roles that combine technical analysis with strategic thinking.
+
+# What I'm Learning
+
+Right now I'm focused on improving my skills in advanced analytics, data visualization tools, and staying up to date with new trends in business intelligence. I also try to engage with the analytics community when I can.

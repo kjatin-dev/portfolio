@@ -1,0 +1,46 @@
+---
+title: "Skills"
+---
+
+# Technical Skills
+
+**Tools I use regularly:**
+
+- Python for data analysis and automation
+- Excel for financial modeling and data analysis (pivot tables, advanced formulas)
+- Tableau for creating dashboards and visualizations
+- Quarto for documentation
+
+I'm also comfortable with statistical analysis, data cleaning, database queries, and basic version control.
+
+# Analytical Abilities
+
+I enjoy working with data to find insights that actually matter for business decisions. Some areas where I've developed skills:
+
+- Business analytics and turning data into actionable insights
+- Marketing analytics including customer segmentation and campaign analysis
+- Forecasting and time series analysis
+- Market research and competitive intelligence
+- Data visualization to tell stories with data
+
+I've also learned various analytical frameworks through my MBA like SWOT analysis, Porter's Five Forces, financial ratio analysis, and regression analysis.
+
+# Business Skills
+
+Beyond the technical stuff, I think what makes analysis valuable is being able to connect it to business strategy. I try to focus on:
+
+- Understanding the actual business problem before diving into data
+- Communicating findings in a way that non-technical stakeholders can understand
+- Thinking critically about what the data is really telling us
+- Collaborating with different teams to get the full picture
+
+# Areas of Interest
+
+Through my coursework and work experience, I've been exposed to:
+
+- Strategic management and marketing strategy
+- Financial analysis
+- The electric vehicle market (through my BYD project)
+- Technology sector and e-commerce analytics
+
+I'm always trying to learn more and stay current with what's happening in business analytics and data science.

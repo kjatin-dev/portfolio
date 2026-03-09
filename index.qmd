@@ -1,0 +1,32 @@
+---
+title: "About Me"
+---
+
+<div style="margin-bottom: 2rem;">
+  <img src="assets/dp.png" alt="Jatin Kumar" class="profile-photo" style="width: 180px; height: 180px; border-radius: 50%; object-fit: cover; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+</div>
+
+# Jatin Kumar
+
+**MBA Candidate | Business Analytics Enthusiast | Aspiring Data Analyst**  
+*University Canada West*
+
+## About Me
+
+I'm currently pursuing my MBA at University Canada West, focusing on business analytics and data-driven decision making. What excites me most is taking complex business problems and finding insights through data analysis that actually help organizations make better decisions.
+
+I want to build a career where I can combine analytical tools with business strategy to solve real problems.
+
+## Background
+
+- MBA student specializing in Business Analytics
+- Bachelor of Computer Application graduate (2020)
+- Worked as a Data Analyst at Appsyco (2021-2023)
+- Experience in sales forecasting and financial analysis
+- Interested in market strategy and competitive analysis
+
+## What I'm Passionate About
+
+Through my studies and work experience, I've learned how powerful data can be when used correctly. I enjoy working on projects that involve analyzing market trends, understanding customer behavior, and helping businesses make informed strategic decisions.
+
+Some areas I'm particularly interested in include using data visualization to tell compelling stories, applying analytical frameworks to business challenges, and understanding how companies compete in different markets.
